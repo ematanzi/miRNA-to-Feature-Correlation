@@ -27,4 +27,4 @@ This project proposes a strategy to enhance the explainability of machine learni
 
 ![second step](images/second_step.png)
 
-For more detalied information about the project, read the [documentation](doc\MiRNA_to_Feature_Correlation[report].pdf)
+For more detalied information about the project, read the [documentation](doc/MiRNA_to_Feature_Correlation[report].pdf)
