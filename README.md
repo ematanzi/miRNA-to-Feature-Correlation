@@ -18,13 +18,13 @@ This project proposes a strategy to enhance the explainability of machine learni
    * *X* describes, for each patient, the information related to miRNA together with personal information.
    * *Feature Importance* associates, to each feature in *P*, an importance score associated to the classification.
 
-![first step](images\first_step.png)
+![first step](images/first_step.png)
 
 2. **SHAP-Based Interpretation**  
    SHAP values are computed to identify the most influential features in each prediction, which are then translated into miRNA-level explanations.
    * Test set is extracted from *X*.
    * The weight matrix is computed in the first step.
 
-![second step](images\second_step.png)
+![second step](images/second_step.png)
 
 For more detalied information about the project, read the [documentation](doc\MiRNA_to_Feature_Correlation[report].pdf)
